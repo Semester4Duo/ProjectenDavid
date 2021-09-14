@@ -1,0 +1,3 @@
+[submodule "WeSplit"]
+	path = WeSplit
+	url = https://github.com/DavidRRg/WeSplit.git
