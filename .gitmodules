@@ -1,3 +1,6 @@
 [submodule "WeSplit"]
 	path = WeSplit
 	url = https://github.com/DavidRRg/WeSplit.git
+[submodule "SwiftUIBasicsApp"]
+	path = SwiftUIBasicsApp
+	url = https://github.com/DavidRRg/SwiftUIBasicsApp.git
