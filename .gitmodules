@@ -4,3 +4,6 @@
 [submodule "SwiftUIBasicsApp"]
 	path = SwiftUIBasicsApp
 	url = https://github.com/DavidRRg/SwiftUIBasicsApp.git
+[submodule "GuessTheFlag"]
+	path = GuessTheFlag
+	url = https://github.com/DavidRRg/GuessTheFlag.git
