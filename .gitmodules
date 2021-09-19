@@ -7,3 +7,6 @@
 [submodule "GuessTheFlag"]
 	path = GuessTheFlag
 	url = https://github.com/DavidRRg/GuessTheFlag.git
+[submodule "BookWorm"]
+	path = BookWorm
+	url = https://github.com/DavidRRg/BookWorm.git
